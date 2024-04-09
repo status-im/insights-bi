@@ -1,44 +1,18 @@
-# Project Reporting Repository
+# Insights-BI Repository
 
-Welcome to the **Project Reporting** repository! This repository serves as a test bed for data structuring and demonstrates the process of extracting data using a data pipeline and ingesting it into Superset for creating insightful dashboards.
+Welcome to the Insights-BI Repository, the central hub for tracking and managing tickets for the Insights Team. This repository serves as a collaborative platform for requesting new data sources, data enhancement requests, creation of new dashboards, and much more. It is also a space for core contributors outside the Insights Team to submit tickets for data and insights requests.
 
-## Purpose
+## Overview
 
-The primary purpose of this repository is to showcase the following:
+The Insights Team uses this repository to streamline the management of data requests, dashboard creation, and integration of new data sources into our Business Intelligence (BI) tools. By centralizing requests and tracking progress here, we aim to improve visibility, enhance collaboration, and accelerate the delivery of data insights across the organization.
 
-- **Data Structuring Test**: Explore various data structuring techniques, illustrating how to organize and format data effectively.
-- **Data Pipeline**: Demonstrate the process of setting up a data pipeline to extract relevant data from various sources.
-- **Superset Dashboards**: Showcase how to use Superset to create interactive and visually appealing dashboards using the extracted data.
+## How to Use This Repository
 
-## Usage
+### For Core Contributors Outside the Insights Team
 
-To make the most of this repository, follow these steps:
-
-1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
-
-'''
-git clone https://github.com/your-username/project-reporting.git
-'''
-
-2. **Explore the Data Structuring**: Navigate through the repository's files and folders to understand different data structuring techniques employed.
-
-3. **Data Pipeline Setup**: Check out the documentation or guides (if available) on how the data pipeline is set up. This might involve scripts, configuration files, or other resources.
-
-4. **Ingest Data to Superset**: Learn how data is ingested into Superset. This could involve setting up data sources, configuring connections, and defining tables/views.
-
-5. **Create Dashboards**: Explore the dashboards created using Superset. Understand how different visualizations are used to convey insights effectively.
-
-## Contributions
-
-Contributions to this repository are welcome! If you have ideas to improve data structuring, enhance the data pipeline, or create more informative dashboards, feel free to submit pull requests.
+- **Submitting Requests**: Please submit your data or dashboard requests by creating an issue. Ensure to provide detailed information about your request for a smoother processing experience.
+- **Following Up**: Keep track of your request by following the ticket you created. Feel free to add comments or ask questions to clarify or provide additional information.
 
 ## Getting Help
 
-If you have any questions, encounter issues, or need assistance, don't hesitate to open an issue on this repository. Our community is here to help!
-
-## License
-
-Happy data structuring and dashboard creation!
-
-*Lalo Anaya*
-*Data Analyst and Business Intelligence Analyst*
+If you need help with creating an issue, understanding the workflow, or have any questions regarding the process, please reach out to the Insights Team via Discord to: `LaloAnaya`.
