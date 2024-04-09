@@ -10,7 +10,7 @@ The Insights Team uses this repository to streamline the management of data requ
 
 ### For Core Contributors Outside the Insights Team
 
-- **Submitting Requests**: Please submit your data or dashboard requests by creating an issue. Ensure to provide detailed information about your request for a smoother processing experience.
+- **Submitting Requests**: Please submit your data or dashboard requests by creating an issue. Ensure to provide detailed information about your request for a smoother processing experience. You can assign `LaloAnaya` as the owner of the ticket.
 - **Following Up**: Keep track of your request by following the ticket you created. Feel free to add comments or ask questions to clarify or provide additional information.
 
 ## Getting Help
